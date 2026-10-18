@@ -1,0 +1,80 @@
+[
+ {
+  "name": "Wheat",
+  "hindi": "गेहूं",
+  "season": "Rabi",
+  "sow": "Nov",
+  "harvest": "Mar-Apr",
+  "days": "120-140",
+  "soil": "Well-drained loam or clay loam",
+  "water": "4-6 irrigations",
+  "diseases": "Yellow rust, brown rust, powdery mildew",
+  "tip": "Sow on time; late sowing lowers yield.",
+  "note": "Approximate; confirm with ICAR / your state agriculture university / local KVK."
+ },
+ {
+  "name": "Paddy (Rice)",
+  "hindi": "धान",
+  "season": "Kharif",
+  "sow": "Jun-Jul (transplant)",
+  "harvest": "Oct-Nov",
+  "days": "100-150",
+  "soil": "Clay or clay loam that holds water",
+  "water": "High; standing water in early stage",
+  "diseases": "Blast, bacterial leaf blight, sheath blight",
+  "tip": "Use healthy seedlings and avoid excess nitrogen.",
+  "note": "Approximate; confirm with ICAR / your state agriculture university / local KVK."
+ },
+ {
+  "name": "Mustard",
+  "hindi": "सरसों",
+  "season": "Rabi",
+  "sow": "Oct",
+  "harvest": "Feb-Mar",
+  "days": "110-140",
+  "soil": "Sandy loam to loam",
+  "water": "Low; 1-2 irrigations",
+  "diseases": "White rust, Alternaria blight, aphids",
+  "tip": "Watch for aphids in cloudy, cool weather.",
+  "note": "Approximate; confirm with ICAR / your state agriculture university / local KVK."
+ },
+ {
+  "name": "Tomato",
+  "hindi": "टमाटर",
+  "season": "Rabi / Kharif (varies)",
+  "sow": "Nursery, then transplant after 4-5 weeks",
+  "harvest": "60-90 days after transplant",
+  "days": "90-140",
+  "soil": "Well-drained loam",
+  "water": "Regular, light irrigation",
+  "diseases": "Early blight, late blight, leaf curl virus",
+  "tip": "Give space between plants for air flow; avoid wet leaves.",
+  "note": "Approximate; confirm with ICAR / your state agriculture university / local KVK."
+ },
+ {
+  "name": "Potato",
+  "hindi": "आलू",
+  "season": "Rabi (north India)",
+  "sow": "Oct-Nov",
+  "harvest": "Jan-Feb",
+  "days": "90-120",
+  "soil": "Loose sandy loam",
+  "water": "Light, frequent irrigation",
+  "diseases": "Late blight, early blight",
+  "tip": "Late blight spreads fast in cool, humid, foggy weather.",
+  "note": "Approximate; confirm with ICAR / your state agriculture university / local KVK."
+ },
+ {
+  "name": "Maize",
+  "hindi": "मक्का",
+  "season": "Kharif",
+  "sow": "Jun-Jul",
+  "harvest": "Sep-Oct",
+  "days": "90-110",
+  "soil": "Well-drained loam",
+  "water": "Moderate; avoid waterlogging",
+  "diseases": "Turcicum leaf blight; fall armyworm (pest)",
+  "tip": "Scout leaves early for armyworm.",
+  "note": "Approximate; confirm with ICAR / your state agriculture university / local KVK."
+ }
+]

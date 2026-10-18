@@ -1,0 +1,31 @@
+[
+ {
+  "id": "s1",
+  "name": "Tractor 45 HP",
+  "price": 600,
+  "place": "2 km away (sample)",
+  "phone": "",
+  "requests": [
+   {
+    "name": "Rohan",
+    "phone": "111111111"
+   }
+  ]
+ },
+ {
+  "id": "s2",
+  "name": "Seed drill",
+  "price": 350,
+  "place": "5 km away (sample)",
+  "phone": "",
+  "requests": []
+ },
+ {
+  "id": "s3",
+  "name": "Sprayer",
+  "price": 150,
+  "place": "3 km away (sample)",
+  "phone": "",
+  "requests": []
+ }
+]

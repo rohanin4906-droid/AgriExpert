@@ -1,0 +1,184 @@
+[
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Early blight",
+  "device": "demo0",
+  "time": "2026-10-18T03:55:23.384582",
+  "steps": [
+   "Remove infected leaves",
+   "Avoid wetting the leaves",
+   "Ask your KVK about a suitable fungicide"
+  ],
+  "sample": true
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Early blight",
+  "device": "demo1",
+  "time": "2026-10-18T03:55:23.385390",
+  "steps": [
+   "Remove infected leaves",
+   "Avoid wetting the leaves",
+   "Ask your KVK about a suitable fungicide"
+  ],
+  "sample": true
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Early blight",
+  "device": "demo2",
+  "time": "2026-10-18T03:55:23.385790",
+  "steps": [
+   "Remove infected leaves",
+   "Avoid wetting the leaves",
+   "Ask your KVK about a suitable fungicide"
+  ],
+  "sample": true
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Early blight",
+  "device": "demo0",
+  "time": "2026-10-18T03:55:27.589777",
+  "steps": [
+   "Remove infected leaves",
+   "Avoid wetting the leaves",
+   "Ask your KVK about a suitable fungicide"
+  ],
+  "sample": true
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Early blight",
+  "device": "demo1",
+  "time": "2026-10-18T03:55:27.590631",
+  "steps": [
+   "Remove infected leaves",
+   "Avoid wetting the leaves",
+   "Ask your KVK about a suitable fungicide"
+  ],
+  "sample": true
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Early blight",
+  "device": "demo2",
+  "time": "2026-10-18T03:55:27.591227",
+  "steps": [
+   "Remove infected leaves",
+   "Avoid wetting the leaves",
+   "Ask your KVK about a suitable fungicide"
+  ],
+  "sample": true
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Early blight",
+  "device": "demo0",
+  "time": "2026-10-18T03:55:27.904484",
+  "steps": [
+   "Remove infected leaves",
+   "Avoid wetting the leaves",
+   "Ask your KVK about a suitable fungicide"
+  ],
+  "sample": true
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Early blight",
+  "device": "demo1",
+  "time": "2026-10-18T03:55:27.905443",
+  "steps": [
+   "Remove infected leaves",
+   "Avoid wetting the leaves",
+   "Ask your KVK about a suitable fungicide"
+  ],
+  "sample": true
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Early blight",
+  "device": "demo2",
+  "time": "2026-10-18T03:55:27.905854",
+  "steps": [
+   "Remove infected leaves",
+   "Avoid wetting the leaves",
+   "Ask your KVK about a suitable fungicide"
+  ],
+  "sample": true
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Blossom end rot",
+  "device": "dhoxvsskf",
+  "time": "2026-10-18T04:00:42.820805",
+  "steps": [
+   "Water the tomato plants evenly and regularly to avoid dry and wet extremes in the soil.",
+   "Spread organic mulch around the plant base to help retain soil moisture.",
+   "Pick off and discard damaged fruits so the plant can focus energy on new, healthy fruit growth."
+  ],
+  "sample": false
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Blossom end rot",
+  "device": "dhoxvsskf",
+  "time": "2026-10-18T04:00:43.227817",
+  "steps": [
+   "Water your plants regularly and deeply so the soil stays consistently moist, avoiding extreme drying or over-flooding.",
+   "Apply a layer of organic mulch like straw or dry grass around the plant base to conserve soil moisture.",
+   "Pluck and discard heavily affected fruits so the plant can send food and water to new, healthy fruits."
+  ],
+  "sample": false
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Blossom end rot",
+  "device": "dhoxvsskf",
+  "time": "2026-10-18T04:00:43.228722",
+  "steps": [
+   "Maintain regular and uniform watering to keep the soil consistently moist without waterlogging.",
+   "Add organic mulch around the plant base to help retain moisture in the soil.",
+   "Apply a recommended calcium supplement to the soil or foliage following label directions."
+  ],
+  "sample": false
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Blossom end rot",
+  "device": "dhoxvsskf",
+  "time": "2026-10-18T04:00:49.486805",
+  "steps": [
+   "Water the plants regularly to keep the soil evenly moist; do not let the soil dry out completely between waterings.",
+   "Add organic mulch around the base of the tomato plants to retain soil moisture and protect roots.",
+   "Remove severely affected fruits so the plant can send nutrients and energy to healthy new fruits."
+  ],
+  "sample": false
+ },
+ {
+  "village": "rampur",
+  "crop": "tomato",
+  "disease": "Blossom end rot",
+  "device": "dhoxvsskf",
+  "time": "2026-10-18T04:06:33.435979",
+  "steps": [
+   "Water the plants evenly and regularly so the soil stays consistently moist.",
+   "Pick off and discard the affected fruits so the plant can focus its energy on new growth.",
+   "Add mulch around the plants to conserve soil moisture and prevent sudden drying."
+  ],
+  "sample": false
+ }
+]

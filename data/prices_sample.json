@@ -1,0 +1,42 @@
+[
+ {
+  "commodity": "Tomato",
+  "market": "Sample mandi",
+  "min": 1500,
+  "max": 2100,
+  "modal": 1800,
+  "date": "sample"
+ },
+ {
+  "commodity": "Potato",
+  "market": "Sample mandi",
+  "min": 1200,
+  "max": 1600,
+  "modal": 1400,
+  "date": "sample"
+ },
+ {
+  "commodity": "Onion",
+  "market": "Sample mandi",
+  "min": 1400,
+  "max": 2000,
+  "modal": 1700,
+  "date": "sample"
+ },
+ {
+  "commodity": "Wheat",
+  "market": "Sample mandi",
+  "min": 2300,
+  "max": 2600,
+  "modal": 2450,
+  "date": "sample"
+ },
+ {
+  "commodity": "Mustard",
+  "market": "Sample mandi",
+  "min": 5300,
+  "max": 5900,
+  "modal": 5600,
+  "date": "sample"
+ }
+]
