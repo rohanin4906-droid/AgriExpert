@@ -10,7 +10,7 @@ Agriculture and Rural Development track.
 
 Small farmers can't spot crop disease early, so they use the wrong pesticide and lose yield and money. They also don't know fair market prices, can't afford machines like tractors, and have no one to guide them. Today they jump between apps, WhatsApp groups, mandi sites and news.
 
-## Our idea
+## My idea
 
 > A chatbot helps one farmer. **AgriExpert protects a whole village**, and puts everything a farmer needs in one place.
 
@@ -74,5 +74,3 @@ bash run.sh
 - Crop facts are approximate and need verification with ICAR or KVK experts.
 - No accounts, payments or offline mode. It runs locally and is not deployed.
 - Photos are sent to Google's Gemini API, and free-tier content may be used by Google to improve its products.
-
-## Roadmap
