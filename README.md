@@ -2,9 +2,10 @@
 
 **An all-in-one AI farming companion for small farmers, in Hindi and English, by text or voice.**
 
-I am Rohan 1st year student, i build the all in one solution for farmers which is AgriExpert 
-
 Agriculture and Rural Development track.
+
+
+I am Rohan 1st year student, i build the all in one solution for farmers which is AgriExpert.
 
 ## The problem
 
